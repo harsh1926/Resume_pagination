@@ -1,0 +1,77 @@
+
+.resumeLink{
+    margin-top: 10px;
+}
+.separate{
+    margin: 25px 50px 25px 25px;
+}
+.upperTop{
+    display: flex;
+}
+.resumeContainer{
+    border: 2px solid #555;
+}
+
+.profilePic{
+    margin: 25px 50px 25px 25px;
+}
+.profileCont{
+    margin: 25px 50px 25px 15px;
+}
+.name{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    font-size: 40px;
+}
+.description{
+    margin-top: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.location{
+    margin-top: 5px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+img{
+    border-radius: 50%;
+}
+.info{
+    display: flex;
+    
+    flex-wrap: wrap;
+}
+.infoFirst{
+    width: calc(45% - 10px);
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 45px;
+    padding: 5px 15px 10px 10px;
+  
+}
+.heros{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    font-size: 25px;
+    color: blue;
+    margin: 5px 5px 5px 0px;
+}
+.herosDesc{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    margin: 5px 5px 15px 0px;
+}
+.heroSkills{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    margin: 5px 5px 5px 0px;
+}
+button{
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin-right: 5px;
+    padding: 10px 15px 10px 10px;
+    border: none;
+    background-color: blue;
+    border-radius: 5px;
+    border-color: blue;
+    color: white;
+}
